@@ -1,5 +1,9 @@
 # Αρχή ήμισυ παντός (start is half of all)
 
+## What is this repo for?
+
+### this is the repo where I start my zen journey of creating what matters; for me, for us
+
 ## my promise to you: humane, real, honest,
 
 ### humane
