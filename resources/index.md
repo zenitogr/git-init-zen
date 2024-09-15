@@ -1,0 +1,1 @@
+[resource - wiktionary - english](https://en.wiktionary.org/wiki/resource#English)
