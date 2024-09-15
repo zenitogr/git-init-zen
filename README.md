@@ -1,4 +1,4 @@
-# Αρχή ήμισυ παντός
+# Αρχή ήμισυ παντός (start is half of all)
 
 ## my promise to you: humane, real, honest,
 
