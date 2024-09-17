@@ -1,0 +1,40 @@
+{
+  "name": "testing1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/speakeasy": "^2.0.10",
+    "axios": "^1.7.7",
+    "base32": "^0.0.7",
+    "lucide-react": "^0.441.0",
+    "next": "14.2.11",
+    "next-qrcode": "^2.5.1",
+    "otpauth": "^9.3.2",
+    "otplib": "^12.0.1",
+    "qrcode": "^1.5.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1",
+    "remark-parse": "^11.0.0",
+    "remark-react": "^9.0.1",
+    "speakeasy": "^2.0.0",
+    "unified": "^11.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "22.5.5",
+    "@types/qrcode": "^1.5.4",
+    "@types/react": "18.3.6",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.11",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.11",
+    "typescript": "^5.6.2"
+  }
+}
